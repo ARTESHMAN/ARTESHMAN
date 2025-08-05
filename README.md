@@ -56,6 +56,6 @@
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://t.me/arteshman" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="arteshman" /></a>
-<a href="mailto:alimoghaddam1998@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alimoghaddam1998@gmail.com"/></a>
+<a href="mailto:alimoghaddam5966@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alimoghaddam5966@gmail.com"/></a>
 <a href="https://instagram.com/ali_moghaddam014" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ali_moghaddam014" /></a>
 </p>
