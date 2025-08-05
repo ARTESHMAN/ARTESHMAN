@@ -5,7 +5,6 @@
 
 <p align="center">
   <br/>
-  <em>"My brain thinks in binary, but my heart runs on coffee!"</em> 😉
   <br/>
   I'm passionate about backend development with Java, as well as IT infrastructure, networking, and server management.
   <br />
