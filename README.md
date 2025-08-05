@@ -48,7 +48,6 @@
     <li><b><a href="https://github.com/ARTESHMAN/ByteFood-Backend">ByteFood-Backend</a>:</b> The backend for a complete online food ordering platform, built with Java and Spring Framework.</li>
     <li><b><a href="https://github.com/ARTESHMAN/ByteFood-Front-End">ByteFood-Front-End</a>:</b> A desktop client for the ByteFood platform, built with JavaFX.</li>
   </ul>
-  <em>em>
 </p>
 
 <hr/>
