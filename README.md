@@ -48,14 +48,13 @@
     <li><b><a href="https://github.com/ARTESHMAN/ByteFood-Backend">ByteFood-Backend</a>:</b> The backend for a complete online food ordering platform, built with Java and Spring Framework.</li>
     <li><b><a href="https://github.com/ARTESHMAN/ByteFood-Front-End">ByteFood-Front-End</a>:</b> A desktop client for the ByteFood platform, built with JavaFX.</li>
   </ul>
-  <em>(Feel free to add more of your projects to this list!)</em>
+  <em>em>
 </p>
 
 <hr/>
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin-username" /></a>
 <a href="https://t.me/arteshman" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="arteshman" /></a>
 <a href="mailto:alimoghaddam1998@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alimoghaddam1998@gmail.com"/></a>
 <a href="https://instagram.com/ali_moghaddam014" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ali_moghaddam014" /></a>
